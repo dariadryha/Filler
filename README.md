@@ -12,6 +12,7 @@ Here is an example on how a game will roll out:
 
 
 
+***
 Example of a rendered game using graphic library miniLibX:
 
 
