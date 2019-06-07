@@ -4,8 +4,10 @@ Filler is an algorithmic game which consists in filling a grid of a known size i
 Each successfully placed piece yields a number of points, and has only one player, the goal of the game could be to get the best score possible. Each player has for the purpose of placing as many pieces as possible while attempting to prevent his opponent from doing the same. At the end of the game, the one with the most points wins the match.
 
 
-
+***
 Here is an example on how a game will roll out:
+
+
 ![game example](/images/00_game_example.png)
 
 
